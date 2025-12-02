@@ -2,11 +2,11 @@
   <img src="https://github.com/araafroyall/cleaner-royall/raw/main/assets/NewIcon.png" style="width: 30%;" />
 </p>
 
-# Cleaner Royall
+# CLE-ANER
 ### ⚡ The Most Advanced Android Cleaning App Ever Made  
-### 👑 Developed & Maintained by **SA SUJON (AraafRoyall)**
+### 👑 Developed & Maintained by **SA SUJON**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=229C43&width=435&lines=Hi+From+AraafRoyall.;Welcome+to+Most+Advanced+Cleaner.;Supports+Auto+Cleaning+Module.;Never+Collect+Any+Data)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=229C43&width=435&lines=YO+NIGGA+WHATSUP.;SEE+THE+MOST+ADVANCED+CLEANER.;SUPPORT+AUTO+CLEAN+MODULE.;NEVER+COLLECT+ANY+DATA)]()
 
 ---
 
@@ -22,9 +22,9 @@
 
 ## 📥 Download & Community
 
-[![Total Downloads](https://img.shields.io/github/downloads/araafroyall/Cleaner-Royall/total?color=green)](https://github.com/araafroyall/Cleaner-Royall/releases/download/Latest/CleanerRoyall.apk)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-lightgreen?logo=telegram)](https://t.me/CleanerRoyall)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-lightgreen?logo=telegram)](https://t.me/CleanerRoyalls)
+[![Total Downloads](https://img.shields.io/github/downloads/araafroyall/Cleaner-Royall/total?color=green)]([https://](https://www.facebook.com/im.SASujon/))
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-lightgreen?logo=telegram)](https://www.facebook.com/im.SASujon/)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-lightgreen?logo=telegram)](https://www.facebook.com/im.SASujon/)
 
 [![Xposed Module](https://img.shields.io/badge/Xposed%20Module-✓-green.svg)]()
 [![Magisk Module](https://img.shields.io/badge/Magisk%20Module-✓-green.svg)]()
@@ -53,9 +53,9 @@
 
 ## 📞 Developer Contact
 
-- **Telegram:** @AraafRoyall  
-- **Email:** CleanerRoyall@gmail.com  
-- **Backup Email:** AraafRoyall@gmail.com  
+- **Telegram:** SA SUJON  
+- **Email:** hcentury346@gmail.com  
+- **Backup Email:** sasujon.exe@gmail.com  
 
 ---
 
