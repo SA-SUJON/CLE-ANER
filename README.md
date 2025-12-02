@@ -59,4 +59,4 @@
 
 ---
 
-<p align="center">🛡️ Privacy First • ⚡ Speed Based • 🇧🇩 Made with Love</p>
+<p align="center">SAMSUL AREFIN SUJON</p>
